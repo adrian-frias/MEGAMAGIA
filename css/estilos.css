@@ -3,8 +3,6 @@ body
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: firebrick;
-    
-
 }
 
 #container1
@@ -12,7 +10,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid #ababab;
+    border: 2px solid #ababab;
     margin: 0 auto;
     color: aqua;
 }
@@ -22,7 +20,17 @@ body
     width: 80%;
     padding: 1em;
     text-align: center;
-    border: 1px solid #ababab;
+    border: 2px solid #ad7f1bea;
     margin: 0 auto;
-    color: blue;
+    color: rgb(255, 0, 234);
+}
+
+#cabecera
+{
+    width: 50%;
+    padding-bottom: 5em;
+    text-align: center;
+    border: 5px solid #0a2be6;
+    margin: 0 auto;
+    color: rgb(0, 4, 255);
 }
