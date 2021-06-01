@@ -6,3 +6,23 @@ body
     
 
 }
+
+#container1
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ababab;
+    margin: 0 auto;
+    color: aqua;
+}
+
+#container2
+{
+    width: 80%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ababab;
+    margin: 0 auto;
+    color: blue;
+}
