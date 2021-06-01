@@ -20,6 +20,8 @@ body
 #container2
 {
     background: rgba(255, 142, 50, 0.548);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
     width: 70%;
     padding: 0;
     text-align: left;
