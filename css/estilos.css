@@ -50,8 +50,25 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    
 
 }
+
+#cabecera #foto
+{
+    width: 30px;
+    vertical-align: middle;
+
+}
+
+#cabecera #foto
+{
+    width: 30px;
+    vertical-align: middle;
+    
+}
+
+
 #container2 h1
 {
     font-size: 20px;
