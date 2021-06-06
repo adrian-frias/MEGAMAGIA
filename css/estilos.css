@@ -41,7 +41,7 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-       border: 1px solid #33A;
+    border: 1px solid #33A;
 }
 
 #cabecera #LINEA_ETIQUETA1
@@ -50,8 +50,25 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    
 
 }
+
+#cabecera #foto
+{
+    width: 30px;
+    vertical-align: middle;
+
+}
+
+#cabecera #foto
+{
+    width: 30px;
+    vertical-align: middle;
+    
+}
+
+
 #container2 h1
 {
     font-size: 20px;
@@ -59,4 +76,18 @@ body
 #post
 {
     padding: 1em;
+}
+#footer
+{
+
+    padding: 0 0 0 1em;
+    background: rgb(139, 135, 139);
+    font-weight: bold;
+    color: white;
+    font-size: 2em;
+    text-align: right;
+    margin-right: 1cm;
+    margin-block-end: 0.5cm;
+    font-family: Verdana;
+
 }
